@@ -1,0 +1,134 @@
+{
+  "vuelos": [
+    {
+      "id": 1,
+      "origen": "alberta",
+      "destino": "otawa",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "10",
+      "time": "5pm",
+      "precio": 200
+    },
+    {
+      "id": 2,
+      "origen": "alberta",
+      "destino": "otawa",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "11",
+      "time": "6pm",
+      "precio": 200
+    },
+    {
+      "id": 3,
+      "origen": "alberta",
+      "destino": "otawa",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "12",
+      "time": "7pm",
+      "precio": 200
+    },
+    {
+      "id": 4,
+      "origen": "alberta",
+      "destino": "otawa",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "13",
+      "time": "8pm",
+      "precio": 200
+    },
+    {
+      "id": 5,
+      "origen": "otawa",
+      "destino": "alberta",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",      
+      "asientos": "14",
+      "time": "9pm",
+      "precio": 200
+    },
+    {
+      "id": 6,
+      "origen": "otawa",
+      "destino": "alberta",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "15",
+      "time": "10pm",
+      "precio": 200
+    },
+    {
+      "id": 7,
+      "origen": "otawa",
+      "destino": "alberta",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "5",
+      "time": "11pm",
+      "precio": 200
+    },
+    {
+      "id": 8,
+      "origen": "otawa",
+      "destino": "alberta",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "6",
+      "time": "1am",
+      "precio": 200
+    },
+    {
+      "id": 9,
+      "origen": "toronto",
+      "destino": "montreal",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "3",
+      "time": "2am",
+      "precio": 200
+    },
+    {
+      "id": 10,
+      "origen": "toronto",
+      "destino": "montreal",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "7",
+      "time": "3am",
+      "precio": 200
+    },
+    {
+      "id": 11,
+      "origen": "toronto",
+      "destino": "montreal",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "8",
+      "time": "4am",
+      "precio": 200
+    },
+    {
+      "id": 12,
+      "origen": "toronto",
+      "destino": "montreal",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "9",
+      "time": "5am",
+      "precio": 200
+    },
+    {
+      "id": 13,
+      "origen": "montreal",
+      "destino": "toronto",
+      "salidaDate": "2022-10-27",
+      "regresoDate": "2022-10-30",
+      "asientos": "14",
+      "time": "6am",
+      "precio": 200
+    }
+  ]
+}
